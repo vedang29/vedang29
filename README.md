@@ -9,7 +9,7 @@
 <br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedang29&show_icons=true&locale=en&layout=compact" alt="VedangAtre" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedang29&show_icons=true&locale=en&layout=compact" alt="VedangAtre" width="500"/></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&locale=en" alt="VedangAtre" /></p>
 
