@@ -29,6 +29,8 @@
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
 ## 📊 GitHub Stats  
+![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=vedang29&show_icons=true&locale=en&layout=compact&theme=radical)
+
 ![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&count_private=true&theme=radical)  
 <br>
 ## 🏆 GitHub Streak  
