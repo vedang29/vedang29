@@ -1,16 +1,45 @@
-# Hi there 👋
+# Hi there! 👋 I'm Vedang Atre
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vedang29&color=green&background-color=black" style="padding: 20px; border-radius: 10px;">
+</p>
+
+![Tech GIF](./101.gif)
+
+## 🚀 About Me
 
 - 🔭 Currently studying at [MESWCOE](https://mescoe.mespune.org/)
 - 🌱 3rd Year Computer Engineering
 - 👯 Find out more details about my club [here](https://github.com/Avinya-co)
-- 📫 How to reach me **vedang294@gmail.com**
-  
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
-<br><br>
 
+## 🛠 Skills & Technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedang29&show_icons=true&locale=en&layout=compact" alt="VedangAtre"/></p>
+### Frontend
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Tailwind, Bootstrap
+- **Design:** Figma, Adobe XD, Sketch
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&locale=en" alt="VedangAtre" /></p>
+### Backend
+- **Languages:** Node.js
+- **Frameworks:** Express, Axios
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vedang29&" alt="VedangAtre" /></p>
+### Data Structures & Algorithms
+- **Languages:** Python, Java, C++
+- **Focus:** Efficient coding practices, problem-solving
+
+### Tools & Platforms
+- **Version Control:** Git, GitHub
+- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Others:** Docker, Google Cloud , Firebase
+
+## 📊 GitHub Stats  
+![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&count_private=true&theme=radical)  
+
+## 🏆 GitHub Streak  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedang29&theme=radical)  
+
+## 📫 Contact Me
+
+Let's connect and collaborate!  
+- **LinkedIn:** [Vedang Atre](https://www.linkedin.com/in/vedang-atre-53212b24b/)
+- **Email:** vedang294@gmail.com
