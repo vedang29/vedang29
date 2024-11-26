@@ -10,7 +10,7 @@
 - 👯 Find out more details about my club [here](https://github.com/Avinya-co)
 
 ## 🛠 Skills & Technologies
-
+<br>
 ### Frontend
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Tailwind, Bootstrap
@@ -27,13 +27,13 @@
 ### Tools & Platforms
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL, MongoDB, PostgreSQL
-
+<br>
 ## 📊 GitHub Stats  
 ![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&count_private=true&theme=radical)  
-
+<br>
 ## 🏆 GitHub Streak  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedang29&theme=radical)  
-
+<br>
 ## 📫 Contact Me
 
 Let's connect and collaborate!  
