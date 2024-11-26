@@ -14,11 +14,11 @@
 ### Frontend
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries:** React, Tailwind, Bootstrap
-- **Design:** Figma, Adobe XD, Sketch
+- **Design:** Figma
 
 ### Backend
-- **Languages:** Node.js
-- **Frameworks:** Express, Axios
+- **Languages:** Node.js, Java
+- **Frameworks:** Express, Axios, Springboot
 
 ### Data Structures & Algorithms
 - **Languages:** Python, Java, C++
@@ -27,7 +27,6 @@
 ### Tools & Platforms
 - **Version Control:** Git, GitHub
 - **Databases:** MySQL, MongoDB, PostgreSQL
-- **Others:** Docker, Google Cloud , Firebase
 
 ## 📊 GitHub Stats  
 ![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&count_private=true&theme=radical)  
