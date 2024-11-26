@@ -5,10 +5,8 @@
 - 👯 Find out more details about my club [here](https://github.com/Avinya-co)
 - 📫 How to reach me **vedang294@gmail.com**
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I2eWlodzRsb2FyNGtmeGxmNGpsM2phN3E5YjB5dDdpaDRiaG1nMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
-<br></br>
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 <br></br>
 
 
