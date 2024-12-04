@@ -34,7 +34,7 @@
 ![Vedang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedang29&show_icons=true&count_private=true&theme=radical)  
 <br>
 ## 🏆 GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedang29&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedang29&theme=radical) 
 
 ## 📫 Contact Me
 
